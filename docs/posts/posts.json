@@ -66,5 +66,22 @@
     "preview": {},
     "last_modified": "2025-02-24T13:36:33-08:00",
     "input_file": {}
+  },
+  {
+    "path": "posts/2025-02-24-fourthpost/",
+    "title": "Forth_Post",
+    "description": "Bar plot of the number of cars with different cylinder counts",
+    "author": [
+      {
+        "name": "Erick Njue",
+        "url": {}
+      }
+    ],
+    "date": "2025-02-24",
+    "categories": [],
+    "contents": "\n\n\n\n\n\n\n",
+    "preview": "posts/2025-02-24-fourthpost/fourthpost_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2025-02-24T14:01:07-08:00",
+    "input_file": "fourthpost.knit.md"
   }
 ]

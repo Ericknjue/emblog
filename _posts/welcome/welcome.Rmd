@@ -1,8 +1,7 @@
 ---
 title: "Welcome to Erick's Blog"
 description: |
-  Welcome to our new blog, Erick's Blog. We hope you enjoy 
-  reading what we have to say!
+  Welcome to Erick's Blog. This is a demo blog for EDLD 652: Data Visualization!
 author:
   Erick Njue
 date: 02-24-2025

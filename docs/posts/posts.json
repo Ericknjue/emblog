@@ -17,6 +17,23 @@
     "input_file": {}
   },
   {
+    "path": "posts/2025-02-24-fourthpost/",
+    "title": "Forth_Post",
+    "description": "Bar plot of the number of cars with different cylinder counts",
+    "author": [
+      {
+        "name": "Erick Njue",
+        "url": {}
+      }
+    ],
+    "date": "2025-02-24",
+    "categories": [],
+    "contents": "\n\n\n\n\n\n\n",
+    "preview": "posts/2025-02-24-fourthpost/fourthpost_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2025-02-24T14:01:07-08:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/2025-02-24-secondpost/",
     "title": "Second_Post",
     "description": "A histogram to see the distribution of miles per gallon (mpg)",
@@ -53,24 +70,7 @@
   {
     "path": "posts/welcome/",
     "title": "Welcome to Erick's Blog",
-    "description": "Welcome to our new blog, Erick's Blog. We hope you enjoy \nreading what we have to say!",
-    "author": [
-      {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
-      }
-    ],
-    "date": "2025-02-24",
-    "categories": [],
-    "contents": "\n\n\n\n",
-    "preview": {},
-    "last_modified": "2025-02-24T13:36:33-08:00",
-    "input_file": {}
-  },
-  {
-    "path": "posts/2025-02-24-fourthpost/",
-    "title": "Forth_Post",
-    "description": "Bar plot of the number of cars with different cylinder counts",
+    "description": "Welcome to Erick's Blog. This is a demo blog for EDLD 652: Data Visualization!",
     "author": [
       {
         "name": "Erick Njue",
@@ -79,9 +79,9 @@
     ],
     "date": "2025-02-24",
     "categories": [],
-    "contents": "\n\n\n\n\n\n\n",
-    "preview": "posts/2025-02-24-fourthpost/fourthpost_files/figure-html5/unnamed-chunk-1-1.png",
-    "last_modified": "2025-02-24T14:01:07-08:00",
-    "input_file": "fourthpost.knit.md"
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2025-02-24T14:26:38-08:00",
+    "input_file": "welcome.knit.md"
   }
 ]

@@ -1,5 +1,5 @@
 ---
-title: "Erick's Blog"
+title: "EDLD 652: Data Visualization Demo Blog"
 site: distill::distill_website
 listing: posts
 ---

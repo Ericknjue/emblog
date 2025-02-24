@@ -1,7 +1,7 @@
 name: "emblog"
 title: "Erick's Blog"
 description: |
-  Erick's Blog
+  This is EDLD 652: Data Visualization Demo Blog
 output_dir: "docs"
 navbar:
   right:

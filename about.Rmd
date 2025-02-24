@@ -1,7 +1,7 @@
 ---
-title: "About this blog"
+title: "About Erick's Blog"
 description: |
-  Some additional details about the blog
+ This is EDLD 652: Data Visualization Demo Blog. All is done for fun!:)
 ---
 
 ```{r setup, include=FALSE}

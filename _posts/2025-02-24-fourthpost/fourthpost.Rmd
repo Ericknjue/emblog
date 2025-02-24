@@ -1,10 +1,12 @@
 ---
-title: "Forth_Post"
+title: "Fourth_Post"
 description: |
   Bar plot of the number of cars with different cylinder counts
 author:
    Erick Njue
 date: 2025-02-24
+categories:
+  - Count Barplot
 output:
   distill::distill_article:
     self_contained: false

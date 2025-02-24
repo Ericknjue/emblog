@@ -15,12 +15,12 @@
     ],
     "contents": "\n\n\n\n\n\n\n",
     "preview": "posts/2025-02-24-firstpost/firstpost_files/figure-html5/unnamed-chunk-1-1.png",
-    "last_modified": "2025-02-24T14:36:16-08:00",
+    "last_modified": "2025-02-24T14:43:02-08:00",
     "input_file": "firstpost.knit.md"
   },
   {
     "path": "posts/2025-02-24-fourthpost/",
-    "title": "Forth_Post",
+    "title": "Fourth_Post",
     "description": "Bar plot of the number of cars with different cylinder counts",
     "author": [
       {
@@ -29,11 +29,13 @@
       }
     ],
     "date": "2025-02-24",
-    "categories": [],
+    "categories": [
+      "Count Barplot"
+    ],
     "contents": "\n\n\n\n\n\n\n",
     "preview": "posts/2025-02-24-fourthpost/fourthpost_files/figure-html5/unnamed-chunk-1-1.png",
-    "last_modified": "2025-02-24T14:01:07-08:00",
-    "input_file": {}
+    "last_modified": "2025-02-24T14:43:32-08:00",
+    "input_file": "fourthpost.knit.md"
   },
   {
     "path": "posts/2025-02-24-secondpost/",
@@ -46,11 +48,13 @@
       }
     ],
     "date": "2025-02-24",
-    "categories": [],
+    "categories": [
+      "Count histogram"
+    ],
     "contents": "\n\n\n\n\n\n\n",
     "preview": "posts/2025-02-24-secondpost/secondpost_files/figure-html5/unnamed-chunk-1-1.png",
-    "last_modified": "2025-02-24T13:41:29-08:00",
-    "input_file": {}
+    "last_modified": "2025-02-24T14:42:48-08:00",
+    "input_file": "secondpost.knit.md"
   },
   {
     "path": "posts/2025-02-24-thirdpost/",
@@ -63,11 +67,13 @@
       }
     ],
     "date": "2025-02-24",
-    "categories": [],
+    "categories": [
+      "Cylinder Boxplot"
+    ],
     "contents": "\n\n\n\n\n\n\n",
     "preview": "posts/2025-02-24-thirdpost/thirdpost_files/figure-html5/unnamed-chunk-1-1.png",
-    "last_modified": "2025-02-24T13:41:18-08:00",
-    "input_file": {}
+    "last_modified": "2025-02-24T14:42:55-08:00",
+    "input_file": "thirdpost.knit.md"
   },
   {
     "path": "posts/welcome/",

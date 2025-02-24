@@ -1,0 +1,24 @@
+---
+title: "Third_Post"
+description: |
+ Comparing mpg across different numbers of cylinders (cyl)
+author:
+   Erick Njue
+date: 2025-02-24
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(ggplot2)
+```
+
+```{r}
+boxplot(mpg ~ cyl, data=mtcars, main="MPG by Number of Cylinders", xlab="Cylinders", ylab="Miles per Gallon", col=c("red", "green", "blue")) 
+```
+
+
+

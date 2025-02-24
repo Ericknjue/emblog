@@ -1,0 +1,23 @@
+---
+title: "Second_Post"
+description: |
+  A histogram to see the distribution of miles per gallon (mpg)
+author:
+   Erick Njue
+date: 2025-02-24
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(ggplot2)
+```
+
+```{r}
+hist(mtcars$mpg, main="Distribution of MPG", xlab="Miles per Gallon", col="lightblue", border="black", breaks=10)
+```
+
+

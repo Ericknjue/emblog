@@ -1,0 +1,24 @@
+---
+title: "First_Post"
+description: |
+  A scatter plot to visualize the relationship between horsepower (hp) and miles per gallon (mpg)
+author:
+   Erick Njue
+date: 2025-02-24
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(ggplot2)
+```
+
+```{r}
+plot(mtcars$hp, mtcars$mpg, main="Horsepower vs. MPG", xlab="Horsepower (hp)", ylab="Miles per Gallon (mpg)", col="blue", pch=19) 
+```
+
+
+
